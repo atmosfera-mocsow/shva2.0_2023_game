@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "njpwerner.autodocstring",
+    "ms-python.python",
+    "gruntfuggly.todo-tree",
+    "wmaurer.change-case",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-ssh",
+    "ms-toolsai.jupyter",
+    "charliermarsh.ruff",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+    "visualstudioexptteam.vscodeintellicode",
+    "kevinrose.vsc-python-indent",
+    "tushortz.python-extended-snippets",
+    "matangover.mypy",
+    "tamasfe.even-better-toml",
+    "github.copilot"
+  ]
+}

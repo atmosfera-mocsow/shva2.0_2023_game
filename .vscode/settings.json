@@ -1,0 +1,22 @@
+{
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.organizeImports": true
+        }
+    },
+    "python.languageServer": "Pylance",
+    "files.autoSave": "afterDelay",
+    // TODO: should be updated
+    "python.defaultInterpreterPath": "~/micromamba/envs/pygame-env/bin/python",
+    "black-formatter.importStrategy": "fromEnvironment",
+    "mypy.runUsingActiveInterpreter": true,
+    "mypy.debugLogging": true,
+    "mypy.enabled": true,
+    "ruff.importStrategy": "fromEnvironment",
+    "ruff.trace.server": "verbose",
+    "editor.formatOnSave": true,
+}
